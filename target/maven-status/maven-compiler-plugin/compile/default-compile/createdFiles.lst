@@ -1,0 +1,4 @@
+pageclasses\AccountPage.class
+driver\BrowserCapabilities.class
+pageclasses\BasePage.class
+pageclasses\WishlistPage.class
