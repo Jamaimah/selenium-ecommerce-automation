@@ -57,7 +57,7 @@ This automation suite tests core functionalities of a **demo e-commerce platform
 ---
 
 
-## 🔄 Future Enhancements (Optional)
+## 🔄 Future Enhancements 
 
 - CI/CD Integration with GitHub Actions or Jenkins
 - Environment-based configuration management
